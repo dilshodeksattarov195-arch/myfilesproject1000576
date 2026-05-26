@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruetch",
+        "uuid": 3830976,
+        "checksum": "rsp3q6"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
